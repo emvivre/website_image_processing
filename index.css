@@ -1,0 +1,96 @@
+div#main {
+    text-align: center;
+    width: 1300px;
+    margin: auto;
+    font-family: Arial;
+}
+
+.section_title {
+    text-align: left;
+    font-size: 170%;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.summary {
+    text-align: left;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    font-size: 150%;   
+}
+
+.indent {
+    text-indent: 2em;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+}
+
+table.table_article {
+    table-layout: fixed;
+}
+
+td.td_article_img {
+    width: 30%;
+}
+
+td.td_description {
+    width: 70%;
+}
+
+.article {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px;    
+}
+
+.article_name {
+    font-weight: bolder;
+    margin: 5px;
+}
+
+.article_description {
+    text-indent: 2em;
+    text-align: justify;
+    margin: 5px;
+    font-size: 120%;
+}
+
+.img_article {
+    width: 600px;
+}
+
+div#contact {
+    text-align: left;
+}
+
+.logo {
+    margin: 5px 50px;
+    height: 150px;
+}
+
+.title {
+    text-align: left;
+    font-size: 150%;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+
+td.box_mail {
+    padding-left: 30px;
+}
+
+div.article_conf {
+    font-style: italic;
+}
+
+div#biography, div#situation {
+    text-align: justify;
+}
